@@ -1,0 +1,96 @@
+{
+  "verified_at": "2026-10-08T07:43:55.075Z",
+  "origin": "https://kivi-eight.vercel.app",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/auth",
+      "status": 200
+    },
+    {
+      "path": "/catalog",
+      "status": 200
+    },
+    {
+      "path": "/products/aether-x1",
+      "status": 200
+    },
+    {
+      "path": "/admin",
+      "status": 200
+    },
+    {
+      "path": "/orders/2c809578-a74a-4080-a489-92316824427e",
+      "status": 200
+    },
+    {
+      "path": "/preview/products/aether-x1",
+      "status": 200
+    }
+  ],
+  "images": [
+    {
+      "path": "/products/aether-x1/arctic.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/aether-x1/crimson.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/aether-x1/obsidian.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/sony-wh-1000xm6/matte-black.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/sony-wh-1000xm6/midnight-blue.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/sony-wh-1000xm6/pearl-white.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/vintage-one/heritage-gold.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/vintage-one/midnight-silver.png",
+      "status": 200,
+      "original_hash_match": true
+    },
+    {
+      "path": "/products/vintage-one/vintage-copper.png",
+      "status": 200,
+      "original_hash_match": true
+    }
+  ],
+  "tests": 19,
+  "node_version_tested": "24.21.0",
+  "local_secret_files_uploaded": false,
+  "browser": {
+    "password_login": true,
+    "session_after_refresh": true,
+    "admin_dashboard": true,
+    "three_retained_orders": true,
+    "tracking_and_payment_display": true,
+    "uncaught_errors": 0
+  },
+  "pending": [
+    "Supabase production Auth email redirect settings",
+    "Hosted Gemini secret and production allowed origin"
+  ]
+}

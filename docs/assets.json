@@ -1,0 +1,74 @@
+[
+  {
+    "original": "Sony WH-1000XM6/Matte Black.png",
+    "copy": "public/products/sony-wh-1000xm6/matte-black.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "ab88a5bd20186cca810b5d27742782e0e7a37b692d5d4e411e64f7bfc46b4795"
+  },
+  {
+    "original": "Sony WH-1000XM6/Midnight Blue.png",
+    "copy": "public/products/sony-wh-1000xm6/midnight-blue.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "b85c52f27f27a7fcfecfaf99643a611a9b9aaea7cd09be5f2db5653967f1a598"
+  },
+  {
+    "original": "Sony WH-1000XM6/Pearl White.png",
+    "copy": "public/products/sony-wh-1000xm6/pearl-white.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "bd5801c49bcc2d8791d18527411f85a68640ebb92a64edaea14a69a8380d84b1"
+  },
+  {
+    "original": "AETHER X1/Arctic.png",
+    "copy": "public/products/aether-x1/arctic.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "0ac28445e150e32e7296bcf4c11e21ca59dc754485d4631b443e5623627a0023"
+  },
+  {
+    "original": "AETHER X1/Crimson.png",
+    "copy": "public/products/aether-x1/crimson.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "0625b7bc11c1cc7ce70aeaa20a15c349e217f3e35e67ccc0f6cbe98c28a6ae21"
+  },
+  {
+    "original": "AETHER X1/Obsidian.png",
+    "copy": "public/products/aether-x1/obsidian.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "c59705588618fc6275c56a260c15e1caa0f713fe569b5db482de09060df4224c"
+  },
+  {
+    "original": "VINTAGE ONE/Heritage Gold.png",
+    "copy": "public/products/vintage-one/heritage-gold.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "d7f35ffabb2763446a1eb3c2c032b0f2b36e1581b52e5d7388536333b199934c"
+  },
+  {
+    "original": "VINTAGE ONE/Midnight Silver.png",
+    "copy": "public/products/vintage-one/midnight-silver.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "e61acedd3fe7d082d3c5bc5ed0270a2ac1dcb4309acd7fe1942d0ac3bba070d9"
+  },
+  {
+    "original": "VINTAGE ONE/Vintage Copper.png",
+    "copy": "public/products/vintage-one/vintage-copper.png",
+    "width": 2048,
+    "height": 2048,
+    "transparent": false,
+    "sha256": "77a606de7232136eae861193cd595f864fcd08fe82fd6a4d6ef0864ff00be6a1"
+  }
+]

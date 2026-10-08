@@ -1,0 +1,175 @@
+[
+  {
+    "id": "10000000-0000-4000-8000-000000000001",
+    "slug": "sony-wh-1000xm6",
+    "name": "Sony WH-1000XM6",
+    "brand": "SONY",
+    "category": "Wireless Headphones",
+    "display_name": "WH\u20131000XM6",
+    "headline": "A little less world.\nA little more you.",
+    "description": "A considered wireless silhouette, in three understated finishes. Find your own space in the everyday.",
+    "background": "#142e40",
+    "accent": "#90b4c6",
+    "specifications": {
+      "Product reference": "WH-1000XM6",
+      "Catalog note": "Project imagery and demo retailer pricing. No manufacturer specifications are asserted here."
+    },
+    "keywords": "headphones audio music wireless commute travel",
+    "is_demo": true,
+    "active": true,
+    "position": 0,
+    "variants": [
+      {
+        "id": "20000000-0000-4000-8000-000000000001",
+        "product_id": "10000000-0000-4000-8000-000000000001",
+        "color_name": "Matte Black",
+        "color_hex": "#292b30",
+        "image_path": "sony-wh-1000xm6/matte-black.png",
+        "price": 34990,
+        "stock": 20,
+        "is_default": false,
+        "position": 0
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000002",
+        "product_id": "10000000-0000-4000-8000-000000000001",
+        "color_name": "Midnight Blue",
+        "color_hex": "#536e86",
+        "image_path": "sony-wh-1000xm6/midnight-blue.png",
+        "price": 34990,
+        "stock": 20,
+        "is_default": true,
+        "position": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000003",
+        "product_id": "10000000-0000-4000-8000-000000000001",
+        "color_name": "Pearl White",
+        "color_hex": "#dedbd5",
+        "image_path": "sony-wh-1000xm6/pearl-white.png",
+        "price": 34990,
+        "stock": 20,
+        "is_default": false,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000002",
+    "slug": "aether-x1",
+    "name": "AETHER X1",
+    "brand": "KIVI",
+    "category": "Gaming Headphones",
+    "display_name": "AETHER X1",
+    "headline": "Enter a different\ndimension.",
+    "description": "A bold, futuristic concept for your next session. Designed in the KIVI demo collection for gaming-inspired listening.",
+    "background": "#242b2f",
+    "accent": "#b4d4c9",
+    "specifications": {
+      "Data disclosure": "Fictional product. All specifications and prices are illustrative demo data.",
+      "Design concept": "Gaming over-ear",
+      "Connection (demo)": "Wireless / USB-C",
+      "Driver (demo)": "50 mm dynamic",
+      "Battery (demo)": "Up to 40 hours",
+      "Weight (demo)": "310 g"
+    },
+    "keywords": "headphones audio music gaming gamer",
+    "is_demo": true,
+    "active": true,
+    "position": 1,
+    "variants": [
+      {
+        "id": "20000000-0000-4000-8000-000000000004",
+        "product_id": "10000000-0000-4000-8000-000000000002",
+        "color_name": "Arctic",
+        "color_hex": "#d8e3e1",
+        "image_path": "aether-x1/arctic.png",
+        "price": 14990,
+        "stock": 20,
+        "is_default": false,
+        "position": 0
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000005",
+        "product_id": "10000000-0000-4000-8000-000000000002",
+        "color_name": "Crimson",
+        "color_hex": "#a63440",
+        "image_path": "aether-x1/crimson.png",
+        "price": 14990,
+        "stock": 20,
+        "is_default": false,
+        "position": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000006",
+        "product_id": "10000000-0000-4000-8000-000000000002",
+        "color_name": "Obsidian",
+        "color_hex": "#24262a",
+        "image_path": "aether-x1/obsidian.png",
+        "price": 14990,
+        "stock": 20,
+        "is_default": true,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000003",
+    "slug": "vintage-one",
+    "name": "VINTAGE ONE",
+    "brand": "KIVI",
+    "category": "Premium Audiophile Headphones",
+    "display_name": "VINTAGE ONE",
+    "headline": "Old soul.\nNew frequency.",
+    "description": "Warm metallic finishes. A timeless silhouette. A listening concept for people who appreciate the details.",
+    "background": "#422a2b",
+    "accent": "#d8b594",
+    "specifications": {
+      "Data disclosure": "Fictional product. All specifications and prices are illustrative demo data.",
+      "Design concept": "Audiophile over-ear",
+      "Connection (demo)": "Wired 3.5 mm",
+      "Driver (demo)": "45 mm dynamic",
+      "Impedance (demo)": "32 ohm",
+      "Weight (demo)": "285 g"
+    },
+    "keywords": "headphones audio music audiophile wired vintage",
+    "is_demo": true,
+    "active": true,
+    "position": 2,
+    "variants": [
+      {
+        "id": "20000000-0000-4000-8000-000000000007",
+        "product_id": "10000000-0000-4000-8000-000000000003",
+        "color_name": "Heritage Gold",
+        "color_hex": "#c1a674",
+        "image_path": "vintage-one/heritage-gold.png",
+        "price": 24990,
+        "stock": 20,
+        "is_default": true,
+        "position": 0
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000008",
+        "product_id": "10000000-0000-4000-8000-000000000003",
+        "color_name": "Midnight Silver",
+        "color_hex": "#9da3a6",
+        "image_path": "vintage-one/midnight-silver.png",
+        "price": 24990,
+        "stock": 20,
+        "is_default": false,
+        "position": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000009",
+        "product_id": "10000000-0000-4000-8000-000000000003",
+        "color_name": "Vintage Copper",
+        "color_hex": "#b37554",
+        "image_path": "vintage-one/vintage-copper.png",
+        "price": 24990,
+        "stock": 20,
+        "is_default": false,
+        "position": 2
+      }
+    ]
+  }
+]

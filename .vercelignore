@@ -1,0 +1,17 @@
+# Upload only the frontend source and its supplied image copies.
+.env*
+**/.env*
+.git/
+.vercel/
+node_modules/
+dist/
+supabase/
+docs/
+tests/
+scripts/
+playwright-report/
+test-results/
+.DS_Store
+/AETHER X1/
+/Sony WH-1000XM6/
+/VINTAGE ONE/

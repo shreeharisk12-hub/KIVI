@@ -1,0 +1,70 @@
+{
+  "verified_at": "2026-10-08T07:31:29.683Z",
+  "project": "skinwceyovjaipqvmvmi",
+  "admin_email": "demo-admin@kivi.example",
+  "login_verified": true,
+  "admin_role_verified": true,
+  "browser_checked": false,
+  "orders": [
+    {
+      "id": "f340e8fd-7a69-4f2f-8c97-353dc06b9ac7",
+      "status": "Cancelled",
+      "payment_method": "demo_card",
+      "payment_status": "not_collected",
+      "total": 15189,
+      "order_status_history": [
+        {
+          "status": "Placed",
+          "created_at": "2026-10-08T07:31:24.845656+00:00"
+        },
+        {
+          "status": "Cancelled",
+          "created_at": "2026-10-08T07:31:25.894894+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c0316019-358c-4e36-a0f8-62362b699e48",
+      "status": "Cancelled",
+      "payment_method": "demo_cod",
+      "payment_status": "not_collected",
+      "total": 15189,
+      "order_status_history": [
+        {
+          "status": "Placed",
+          "created_at": "2026-10-08T07:31:26.529276+00:00"
+        },
+        {
+          "status": "Cancelled",
+          "created_at": "2026-10-08T07:31:27.280495+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2c809578-a74a-4080-a489-92316824427e",
+      "status": "Shipped",
+      "payment_method": "demo_upi",
+      "payment_status": "not_collected",
+      "total": 15189,
+      "order_status_history": [
+        {
+          "status": "Placed",
+          "created_at": "2026-10-08T07:31:27.922688+00:00"
+        },
+        {
+          "status": "Confirmed",
+          "created_at": "2026-10-08T07:31:28.735925+00:00"
+        },
+        {
+          "status": "Packed",
+          "created_at": "2026-10-08T07:31:28.894311+00:00"
+        },
+        {
+          "status": "Shipped",
+          "created_at": "2026-10-08T07:31:29.074249+00:00"
+        }
+      ]
+    }
+  ],
+  "inventory_verified": true
+}

@@ -1,0 +1,101 @@
+@import './src/styles/index.css';
+
+:root {
+
+  --background-color: initial;
+  --text-color: initial;
+  --accent-color: initial;
+  --font-scale: 1;
+
+  --body-font: 'DM Sans', Arial, sans-serif;
+  --heading-font: 'Manrope', 'DM Sans', sans-serif;
+  --display-font: 'Manrope', sans-serif;
+
+  --bg: var(--background-color, #f7f8f5);
+  --panel: var(--background-color, #fff);
+  --text: var(--text-color, #202522);
+  --muted: #68716c;
+  --line: #dedfd9;
+  --inverse: #fff;
+  --soft: var(--background-color, #ebede7);
+  --accent: var(--accent-color, #456257);
+
+
+  --auth-bg: var(--background-color, #142e40);
+  --hero-text: var(--text-color, #edf3f4);
+  --auth-text: var(--text-color, #e8eff2);
+
+
+  --card-image-bg: #f1f2ee;
+  --detail-image-bg: #eef0eb;
+
+  --button-radius: 100px;
+  --card-radius: 18px;
+  --input-radius: 9px;
+
+  font-family: var(--body-font);
+  font-size: calc(var(--font-scale) * 16px);
+  font-synthesis: none;
+  background-color: var(--bg);
+  color: var(--text);
+  color-scheme: light;
+}
+
+/* DARK MODE COLORS — the quick overrides above still apply */
+:root[data-theme='dark'] {
+  --bg: var(--background-color, #131816);
+  --panel: var(--background-color, #1c231f);
+  --text: var(--text-color, #edf1ec);
+  --muted: #9ca9a0;
+  --line: #343e36;
+  --inverse: #131816;
+  --soft: var(--background-color, #252e28);
+  --accent: var(--accent-color, #a9c1b4);
+  color-scheme: dark;
+}
+
+/*
+ * ORDINARY CSS — edit the declaration directly for just one area.
+ * Example: replace the home banner's line with background-color: black;
+ * Use background-color with a hyphen, not "background color".
+ */
+body {
+  background-color: var(--bg);
+}
+
+.hero {
+  --accent: var(--accent-color, var(--product-accent, #456257));
+  background-color: var(--background-color, var(--hero-bg, var(--product-background, #142e40)));
+}
+
+.auth-visual {
+  background-color: var(--auth-bg);
+  color: var(--auth-text);
+}
+
+.button {
+  background-color: var(--text);
+  color: var(--inverse);
+}
+
+/* Keep the existing special button styles. */
+.button-white {
+  background-color: #eef3f1;
+  color: #192a31;
+}
+
+.button-outline {
+  background-color: transparent;
+  color: var(--text);
+}
+
+/*
+ * ADD EXTRA CHANGES BELOW THIS LINE IF ASKED DURING THE VIVA.
+ * These examples are comments, so they do not change the website.
+ * Remove the surrounding comment marks to activate an example.
+ *
+ * .hero-purchase h1 { font-size: 40px; }
+ * .page > h1 { font-size: 48px; color: red; }
+ * .site-header { background-color: black; }
+ * .collection-section { padding: 60px 6%; }
+ */

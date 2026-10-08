@@ -1,0 +1,117 @@
+{
+  "checkedAt": "2026-10-08T07:04:42.495Z",
+  "colors": [
+    {
+      "alt": "Sony WH-1000XM6 in Matte Black",
+      "loaded": true
+    },
+    {
+      "alt": "Sony WH-1000XM6 in Midnight Blue",
+      "loaded": true
+    },
+    {
+      "alt": "Sony WH-1000XM6 in Pearl White",
+      "loaded": true
+    },
+    {
+      "alt": "AETHER X1 in Arctic",
+      "loaded": true
+    },
+    {
+      "alt": "AETHER X1 in Crimson",
+      "loaded": true
+    },
+    {
+      "alt": "AETHER X1 in Obsidian",
+      "loaded": true
+    },
+    {
+      "alt": "VINTAGE ONE in Heritage Gold",
+      "loaded": true
+    },
+    {
+      "alt": "VINTAGE ONE in Midnight Silver",
+      "loaded": true
+    },
+    {
+      "alt": "VINTAGE ONE in Vintage Copper",
+      "loaded": true
+    }
+  ],
+  "responsive": [
+    {
+      "documentWidth": 390,
+      "overflows": false,
+      "path": "/preview",
+      "viewport": 390
+    },
+    {
+      "documentWidth": 390,
+      "overflows": false,
+      "path": "/preview/catalog",
+      "viewport": 390
+    },
+    {
+      "documentWidth": 390,
+      "overflows": false,
+      "path": "/preview/products/aether-x1",
+      "viewport": 390
+    },
+    {
+      "documentWidth": 390,
+      "overflows": false,
+      "path": "/auth",
+      "viewport": 390
+    },
+    {
+      "documentWidth": 768,
+      "overflows": false,
+      "path": "/preview",
+      "viewport": 768
+    },
+    {
+      "documentWidth": 768,
+      "overflows": false,
+      "path": "/preview/catalog",
+      "viewport": 768
+    },
+    {
+      "documentWidth": 768,
+      "overflows": false,
+      "path": "/preview/products/aether-x1",
+      "viewport": 768
+    },
+    {
+      "documentWidth": 768,
+      "overflows": false,
+      "path": "/auth",
+      "viewport": 768
+    },
+    {
+      "documentWidth": 1440,
+      "overflows": false,
+      "path": "/preview",
+      "viewport": 1440
+    },
+    {
+      "documentWidth": 1440,
+      "overflows": false,
+      "path": "/preview/catalog",
+      "viewport": 1440
+    },
+    {
+      "documentWidth": 1440,
+      "overflows": false,
+      "path": "/preview/products/aether-x1",
+      "viewport": 1440
+    },
+    {
+      "documentWidth": 1440,
+      "overflows": false,
+      "path": "/auth",
+      "viewport": 1440
+    }
+  ],
+  "loginFailure": "Invalid login credentials",
+  "uncaughtErrors": []
+}
